@@ -85,7 +85,7 @@ body {
     padding: .4rem 0;
     display: flex;
     align-items: center;
-    color: #1abb9c;
+    color: #F1F8FD;
     letter-spacing: 1px;
     font-size: 18px;
 }
@@ -133,7 +133,7 @@ body {
 }
 
 .right-title {
-    color: #70C6C7;
+    color: #1abb9c;
     font-size: 40px;
     letter-spacing: 2px;
     text-transform: uppercase;
